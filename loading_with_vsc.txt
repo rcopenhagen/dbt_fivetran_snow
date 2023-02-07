@@ -1,0 +1,3 @@
+
+cd C:\Users\RichCopenhagen\Documents\github\dbt-fivetran-snow\dbt_fivetran_snow
+py -m venv dbt-en
