@@ -1,6 +1,6 @@
 jobs:
- - name: weekdays
-   schedule: 30 2 * * 1-5 # Every weekday at 2:30am.
-   steps:
-     - name: run all models
-       command: dbt run
+# - name: weekdays
+#   schedule: 30 2 * * 1-5 # Every weekday at 2:30am.
+#   steps:
+#     - name: run all models
+#       command: dbt run
